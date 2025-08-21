@@ -1,0 +1,48 @@
+{
+  "templates": [
+    {
+      "name": "'portfolio showcase'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.eliquis.ca/fr/sign-up",
+          "uuid": "d27b836d92a40db1e77be731e85a85876642f27d"
+        },
+        {
+          "url": "https://www.eliquis.ca/sign-up",
+          "uuid": "03557f6824ac93d8ca435436f46f292a4f5db66e"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr",
+          "uuid": "4461d0275924bdbf015b6c199f1b4461e4941390"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/node/2",
+          "uuid": "b289e19002408a065d20707156ca17801432f219"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/predin-home",
+          "uuid": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c"
+        },
+        {
+          "url": "https://www.eliquis.ca/predin-home",
+          "uuid": "0f07440494a0410f3c73ec86ea22c9e6d57e3600"
+        },
+        {
+          "url": "https://www.eliquis.ca/node/2",
+          "uuid": "81c0e953219d9e9260b1ea107d55afa1cc6cc751"
+        }
+      ]
+    },
+    {
+      "name": "'Service Overview Page'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.eliquis.ca/",
+          "uuid": "614c95b732fe262a6fe43c7430f40ef24066fc96"
+        }
+      ]
+    }
+  ]
+}

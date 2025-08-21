@@ -1,0 +1,774 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 2,
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/sign-up",
+          "urlHash": "03557f6824ac93d8ca435436f46f292a4f5db66e",
+          "uuid": "03557f68-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/sign-up",
+          "urlHash": "03557f6824ac93d8ca435436f46f292a4f5db66e",
+          "uuid": "03557f68-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/predin-home",
+          "urlHash": "0f07440494a0410f3c73ec86ea22c9e6d57e3600",
+          "uuid": "0f074404-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/predin-home",
+          "urlHash": "0f07440494a0410f3c73ec86ea22c9e6d57e3600",
+          "uuid": "0f074404-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr",
+          "urlHash": "4461d0275924bdbf015b6c199f1b4461e4941390",
+          "uuid": "4461d027-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr",
+          "urlHash": "4461d0275924bdbf015b6c199f1b4461e4941390",
+          "uuid": "4461d027-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/",
+          "urlHash": "614c95b732fe262a6fe43c7430f40ef24066fc96",
+          "uuid": "614c95b7-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/",
+          "urlHash": "614c95b732fe262a6fe43c7430f40ef24066fc96",
+          "uuid": "614c95b7-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/predin-home",
+          "urlHash": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c",
+          "uuid": "690c2d69-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/predin-home",
+          "urlHash": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c",
+          "uuid": "690c2d69-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/node/2",
+          "urlHash": "81c0e953219d9e9260b1ea107d55afa1cc6cc751",
+          "uuid": "81c0e953-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/node/2",
+          "urlHash": "81c0e953219d9e9260b1ea107d55afa1cc6cc751",
+          "uuid": "81c0e953-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/node/2",
+          "urlHash": "b289e19002408a065d20707156ca17801432f219",
+          "uuid": "b289e190-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/node/2",
+          "urlHash": "b289e19002408a065d20707156ca17801432f219",
+          "uuid": "b289e190-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/sign-up",
+          "urlHash": "d27b836d92a40db1e77be731e85a85876642f27d",
+          "uuid": "d27b836d-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/sign-up",
+          "urlHash": "d27b836d92a40db1e77be731e85a85876642f27d",
+          "uuid": "d27b836d-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 551
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 3,
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/sign-up",
+          "urlHash": "03557f6824ac93d8ca435436f46f292a4f5db66e",
+          "uuid": "03557f68-04-6d10207430320d23b94de681bb804d8dc718ef48",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/sign-up",
+          "urlHash": "03557f6824ac93d8ca435436f46f292a4f5db66e",
+          "uuid": "03557f68-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/sign-up",
+          "urlHash": "03557f6824ac93d8ca435436f46f292a4f5db66e",
+          "uuid": "03557f68-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.eliquis.ca/predin-home",
+          "urlHash": "0f07440494a0410f3c73ec86ea22c9e6d57e3600",
+          "uuid": "0f074404-04-6d10207430320d23b94de681bb804d8dc718ef48",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/predin-home",
+          "urlHash": "0f07440494a0410f3c73ec86ea22c9e6d57e3600",
+          "uuid": "0f074404-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/predin-home",
+          "urlHash": "0f07440494a0410f3c73ec86ea22c9e6d57e3600",
+          "uuid": "0f074404-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr",
+          "urlHash": "4461d0275924bdbf015b6c199f1b4461e4941390",
+          "uuid": "4461d027-04-6d10207430320d23b94de681bb804d8dc718ef48",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr",
+          "urlHash": "4461d0275924bdbf015b6c199f1b4461e4941390",
+          "uuid": "4461d027-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr",
+          "urlHash": "4461d0275924bdbf015b6c199f1b4461e4941390",
+          "uuid": "4461d027-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.eliquis.ca/",
+          "urlHash": "614c95b732fe262a6fe43c7430f40ef24066fc96",
+          "uuid": "614c95b7-04-6d10207430320d23b94de681bb804d8dc718ef48",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/",
+          "urlHash": "614c95b732fe262a6fe43c7430f40ef24066fc96",
+          "uuid": "614c95b7-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/",
+          "urlHash": "614c95b732fe262a6fe43c7430f40ef24066fc96",
+          "uuid": "614c95b7-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/predin-home",
+          "urlHash": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c",
+          "uuid": "690c2d69-04-6d10207430320d23b94de681bb804d8dc718ef48",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/predin-home",
+          "urlHash": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c",
+          "uuid": "690c2d69-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/predin-home",
+          "urlHash": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c",
+          "uuid": "690c2d69-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.eliquis.ca/node/2",
+          "urlHash": "81c0e953219d9e9260b1ea107d55afa1cc6cc751",
+          "uuid": "81c0e953-04-6d10207430320d23b94de681bb804d8dc718ef48",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/node/2",
+          "urlHash": "81c0e953219d9e9260b1ea107d55afa1cc6cc751",
+          "uuid": "81c0e953-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/node/2",
+          "urlHash": "81c0e953219d9e9260b1ea107d55afa1cc6cc751",
+          "uuid": "81c0e953-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/node/2",
+          "urlHash": "b289e19002408a065d20707156ca17801432f219",
+          "uuid": "b289e190-04-6d10207430320d23b94de681bb804d8dc718ef48",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/node/2",
+          "urlHash": "b289e19002408a065d20707156ca17801432f219",
+          "uuid": "b289e190-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/node/2",
+          "urlHash": "b289e19002408a065d20707156ca17801432f219",
+          "uuid": "b289e190-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/sign-up",
+          "urlHash": "d27b836d92a40db1e77be731e85a85876642f27d",
+          "uuid": "d27b836d-04-6d10207430320d23b94de681bb804d8dc718ef48",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/sign-up",
+          "urlHash": "d27b836d92a40db1e77be731e85a85876642f27d",
+          "uuid": "d27b836d-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/sign-up",
+          "urlHash": "d27b836d92a40db1e77be731e85a85876642f27d",
+          "uuid": "d27b836d-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(0, 56, 83) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "unknown",
+      "cluster": 1,
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/sign-up",
+          "urlHash": "03557f6824ac93d8ca435436f46f292a4f5db66e",
+          "uuid": "03557f68-03-08e0784cea4056551db49d53eb55b923e1f3f427",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/sign-up",
+          "urlHash": "d27b836d92a40db1e77be731e85a85876642f27d",
+          "uuid": "d27b836d-03-08e0784cea4056551db49d53eb55b923e1f3f427",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cards2)",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/fr",
+          "urlHash": "4461d0275924bdbf015b6c199f1b4461e4941390",
+          "uuid": "4461d027-02-08e0784cea4056551db49d53eb55b923e1f3f427",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.eliquis.ca/",
+          "urlHash": "614c95b732fe262a6fe43c7430f40ef24066fc96",
+          "uuid": "614c95b7-02-08e0784cea4056551db49d53eb55b923e1f3f427",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/predin-home",
+          "urlHash": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c",
+          "uuid": "690c2d69-02-08e0784cea4056551db49d53eb55b923e1f3f427",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.eliquis.ca/node/2",
+          "urlHash": "81c0e953219d9e9260b1ea107d55afa1cc6cc751",
+          "uuid": "81c0e953-02-08e0784cea4056551db49d53eb55b923e1f3f427",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/node/2",
+          "urlHash": "b289e19002408a065d20707156ca17801432f219",
+          "uuid": "b289e190-02-08e0784cea4056551db49d53eb55b923e1f3f427",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 3,
+      "source": "Header",
+      "target": "Header (header3)",
+      "key": "header3",
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/sign-up",
+          "urlHash": "03557f6824ac93d8ca435436f46f292a4f5db66e",
+          "uuid": "03557f68-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/sign-up",
+          "urlHash": "d27b836d92a40db1e77be731e85a85876642f27d",
+          "uuid": "d27b836d-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 4,
+      "source": "Header",
+      "target": "Header (header4)",
+      "key": "header4",
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/fr",
+          "urlHash": "4461d0275924bdbf015b6c199f1b4461e4941390",
+          "uuid": "4461d027-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.eliquis.ca/",
+          "urlHash": "614c95b732fe262a6fe43c7430f40ef24066fc96",
+          "uuid": "614c95b7-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/predin-home",
+          "urlHash": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c",
+          "uuid": "690c2d69-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.eliquis.ca/node/2",
+          "urlHash": "81c0e953219d9e9260b1ea107d55afa1cc6cc751",
+          "uuid": "81c0e953-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/node/2",
+          "urlHash": "b289e19002408a065d20707156ca17801432f219",
+          "uuid": "b289e190-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 5,
+      "source": "Header",
+      "target": "Header (header5)",
+      "key": "header5",
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/predin-home",
+          "urlHash": "0f07440494a0410f3c73ec86ea22c9e6d57e3600",
+          "uuid": "0f074404-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/",
+          "urlHash": "614c95b732fe262a6fe43c7430f40ef24066fc96",
+          "uuid": "614c95b7-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 6,
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/sign-up",
+          "urlHash": "03557f6824ac93d8ca435436f46f292a4f5db66e",
+          "uuid": "03557f68-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.eliquis.ca/predin-home",
+          "urlHash": "0f07440494a0410f3c73ec86ea22c9e6d57e3600",
+          "uuid": "0f074404-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr",
+          "urlHash": "4461d0275924bdbf015b6c199f1b4461e4941390",
+          "uuid": "4461d027-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr",
+          "urlHash": "4461d0275924bdbf015b6c199f1b4461e4941390",
+          "uuid": "4461d027-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.eliquis.ca/",
+          "urlHash": "614c95b732fe262a6fe43c7430f40ef24066fc96",
+          "uuid": "614c95b7-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.eliquis.ca/",
+          "urlHash": "614c95b732fe262a6fe43c7430f40ef24066fc96",
+          "uuid": "614c95b7-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/predin-home",
+          "urlHash": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c",
+          "uuid": "690c2d69-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/predin-home",
+          "urlHash": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c",
+          "uuid": "690c2d69-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.eliquis.ca/node/2",
+          "urlHash": "81c0e953219d9e9260b1ea107d55afa1cc6cc751",
+          "uuid": "81c0e953-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/node/2",
+          "urlHash": "b289e19002408a065d20707156ca17801432f219",
+          "uuid": "b289e190-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/node/2",
+          "urlHash": "b289e19002408a065d20707156ca17801432f219",
+          "uuid": "b289e190-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/sign-up",
+          "urlHash": "d27b836d92a40db1e77be731e85a85876642f27d",
+          "uuid": "d27b836d-05-d9659bc7ad7f513c101181fbe93c19873fde4c58",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/sign-up",
+          "urlHash": "d27b836d92a40db1e77be731e85a85876642f27d",
+          "uuid": "d27b836d-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 7,
+      "source": "Header",
+      "target": "Header (header7)",
+      "key": "header7",
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/fr",
+          "urlHash": "4461d0275924bdbf015b6c199f1b4461e4941390",
+          "uuid": "4461d027-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/predin-home",
+          "urlHash": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c",
+          "uuid": "690c2d69-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.eliquis.ca/fr/node/2",
+          "urlHash": "b289e19002408a065d20707156ca17801432f219",
+          "uuid": "b289e190-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 8,
+      "source": "Header",
+      "target": "Header (header8)",
+      "key": "header8",
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/sign-up",
+          "urlHash": "03557f6824ac93d8ca435436f46f292a4f5db66e",
+          "uuid": "03557f68-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 9,
+      "source": "Header",
+      "target": "Header (header9)",
+      "key": "header9",
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/fr/sign-up",
+          "urlHash": "d27b836d92a40db1e77be731e85a85876642f27d",
+          "uuid": "d27b836d-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 10,
+      "source": "Header",
+      "target": "Header (header10)",
+      "key": "header10",
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/node/2",
+          "urlHash": "81c0e953219d9e9260b1ea107d55afa1cc6cc751",
+          "uuid": "81c0e953-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/sign-up",
+          "urlHash": "03557f6824ac93d8ca435436f46f292a4f5db66e",
+          "uuid": "03557f68-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 12,
+      "source": "Columns",
+      "target": "Columns (columns12)",
+      "key": "columns12",
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/predin-home",
+          "urlHash": "0f07440494a0410f3c73ec86ea22c9e6d57e3600",
+          "uuid": "0f074404-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 13,
+      "source": "Cards",
+      "target": "Cards (cards13)",
+      "key": "cards13",
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/predin-home",
+          "urlHash": "0f07440494a0410f3c73ec86ea22c9e6d57e3600",
+          "uuid": "0f074404-02-08e0784cea4056551db49d53eb55b923e1f3f427",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 14,
+      "source": "Header",
+      "target": "Header (header14)",
+      "key": "header14",
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/predin-home",
+          "urlHash": "0f07440494a0410f3c73ec86ea22c9e6d57e3600",
+          "uuid": "0f074404-01-1379e48a60c1b0d49436fd4d72c7b4b935ee275d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 15,
+      "source": "Columns",
+      "target": "Columns (columns15)",
+      "key": "columns15",
+      "instances": [
+        {
+          "url": "https://www.eliquis.ca/node/2",
+          "urlHash": "81c0e953219d9e9260b1ea107d55afa1cc6cc751",
+          "uuid": "81c0e953-06-298c5223456483e12c57925d61c4acf1a3917711",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.eliquis.ca/sign-up",
+      "urlHash": "03557f6824ac93d8ca435436f46f292a4f5db66e",
+      "uuid": "03557f68-02-8a7fb9fb403ab5828ebeeb2d41658da5d19c2ffc",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.eliquis.ca/sign-up",
+      "urlHash": "03557f6824ac93d8ca435436f46f292a4f5db66e",
+      "uuid": "03557f68-04-6d10207430320d23b94de681bb804d8dc718ef48",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.eliquis.ca/predin-home",
+      "urlHash": "0f07440494a0410f3c73ec86ea22c9e6d57e3600",
+      "uuid": "0f074404-03-eaf2e81436f9482694e5ec046f394a27f4ab2d79",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.eliquis.ca/predin-home",
+      "urlHash": "0f07440494a0410f3c73ec86ea22c9e6d57e3600",
+      "uuid": "0f074404-04-6d10207430320d23b94de681bb804d8dc718ef48",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr",
+      "urlHash": "4461d0275924bdbf015b6c199f1b4461e4941390",
+      "uuid": "4461d027-03-eaf2e81436f9482694e5ec046f394a27f4ab2d79",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr",
+      "urlHash": "4461d0275924bdbf015b6c199f1b4461e4941390",
+      "uuid": "4461d027-04-6d10207430320d23b94de681bb804d8dc718ef48",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.eliquis.ca/",
+      "urlHash": "614c95b732fe262a6fe43c7430f40ef24066fc96",
+      "uuid": "614c95b7-03-eaf2e81436f9482694e5ec046f394a27f4ab2d79",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.eliquis.ca/",
+      "urlHash": "614c95b732fe262a6fe43c7430f40ef24066fc96",
+      "uuid": "614c95b7-04-6d10207430320d23b94de681bb804d8dc718ef48",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr/predin-home",
+      "urlHash": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c",
+      "uuid": "690c2d69-03-eaf2e81436f9482694e5ec046f394a27f4ab2d79",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr/predin-home",
+      "urlHash": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c",
+      "uuid": "690c2d69-04-6d10207430320d23b94de681bb804d8dc718ef48",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.eliquis.ca/node/2",
+      "urlHash": "81c0e953219d9e9260b1ea107d55afa1cc6cc751",
+      "uuid": "81c0e953-03-eaf2e81436f9482694e5ec046f394a27f4ab2d79",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.eliquis.ca/node/2",
+      "urlHash": "81c0e953219d9e9260b1ea107d55afa1cc6cc751",
+      "uuid": "81c0e953-04-6d10207430320d23b94de681bb804d8dc718ef48",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr/node/2",
+      "urlHash": "b289e19002408a065d20707156ca17801432f219",
+      "uuid": "b289e190-03-eaf2e81436f9482694e5ec046f394a27f4ab2d79",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr/node/2",
+      "urlHash": "b289e19002408a065d20707156ca17801432f219",
+      "uuid": "b289e190-04-6d10207430320d23b94de681bb804d8dc718ef48",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr/sign-up",
+      "urlHash": "d27b836d92a40db1e77be731e85a85876642f27d",
+      "uuid": "d27b836d-02-8a7fb9fb403ab5828ebeeb2d41658da5d19c2ffc",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr/sign-up",
+      "urlHash": "d27b836d92a40db1e77be731e85a85876642f27d",
+      "uuid": "d27b836d-04-6d10207430320d23b94de681bb804d8dc718ef48",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/nav[1]",
+      "section": "section-2"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90.13deg, rgb(118, 0, 75) -0.03%, rgb(242, 105, 55) 97.13%) repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 8
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(0, 56, 83) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 24
+    }
+  ]
+}
