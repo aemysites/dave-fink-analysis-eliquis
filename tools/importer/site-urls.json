@@ -1,0 +1,102 @@
+{
+  "originUrl": "https://www.eliquis.ca",
+  "aborted": false,
+  "lastCrawled": "https://www.eliquis.ca/",
+  "urls": [
+    {
+      "url": "https://www.eliquis.ca/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "614c95b732fe262a6fe43c7430f40ef24066fc96"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr",
+      "source": "CRAWL",
+      "targetPath": "/fr",
+      "id": "4461d0275924bdbf015b6c199f1b4461e4941390"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr/node/2",
+      "source": "CRAWL",
+      "targetPath": "/fr/node/2",
+      "id": "b289e19002408a065d20707156ca17801432f219"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr/predin-home",
+      "source": "CRAWL",
+      "targetPath": "/fr/predin-home",
+      "id": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr/sign-up",
+      "source": "CRAWL",
+      "targetPath": "/fr/sign-up",
+      "id": "d27b836d92a40db1e77be731e85a85876642f27d"
+    },
+    {
+      "url": "https://www.eliquis.ca/node/2",
+      "source": "CRAWL",
+      "targetPath": "/node/2",
+      "id": "81c0e953219d9e9260b1ea107d55afa1cc6cc751"
+    },
+    {
+      "url": "https://www.eliquis.ca/predin-home",
+      "source": "CRAWL",
+      "targetPath": "/predin-home",
+      "id": "0f07440494a0410f3c73ec86ea22c9e6d57e3600"
+    },
+    {
+      "url": "https://www.eliquis.ca/sign-up",
+      "source": "CRAWL",
+      "targetPath": "/sign-up",
+      "id": "03557f6824ac93d8ca435436f46f292a4f5db66e"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.eliquis.ca/user/login",
+      "status": "301 Moved Permanently Redirect: https://www.eliquis.ca/404"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr/user/login",
+      "status": "301 Moved Permanently Redirect: https://www.eliquis.ca/404"
+    },
+    {
+      "url": "https://www.eliquis.ca//fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800;900&amp;display=swap",
+      "status": "302 Found Redirect: https://www.eliquis.ca/fonts.googleapis.com/css2?amp%3Bdisplay=swap&family=Maven%20Pro%3Awght%40400%3B500%3B600%3B700%3B800%3B900"
+    },
+    {
+      "url": "https://www.eliquis.ca//fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&amp;display=swap",
+      "status": "302 Found Redirect: https://www.eliquis.ca/fonts.googleapis.com/css2?amp%3Bdisplay=swap&family=Montserrat%3Awght%40100%3B200%3B300%3B400%3B500%3B600%3B700%3B800%3B900"
+    },
+    {
+      "url": "https://www.eliquis.ca//sign-up",
+      "status": "302 Found Redirect: https://www.eliquis.ca/sign-up"
+    },
+    {
+      "url": "https://www.eliquis.ca/fonts.googleapis.com/css2?amp%3Bdisplay=swap&family=Maven%20Pro%3Awght%40400%3B500%3B600%3B700%3B800%3B900",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.eliquis.ca/fonts.googleapis.com/css2?amp%3Bdisplay=swap&family=Montserrat%3Awght%40100%3B200%3B300%3B400%3B500%3B600%3B700%3B800%3B900",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.eliquis.ca/404",
+      "status": "404 Not Found"
+    }
+  ]
+}
