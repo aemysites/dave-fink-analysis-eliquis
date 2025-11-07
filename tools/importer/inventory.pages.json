@@ -1,46 +1,410 @@
 {
   "templates": [
     {
-      "name": "'portfolio showcase'",
+      "name": "'Multi-purpose business template'",
       "cluster": 1,
       "pages": [
         {
-          "url": "https://www.eliquis.ca/fr/sign-up",
-          "uuid": "d27b836d92a40db1e77be731e85a85876642f27d"
+          "url": "https://www.spglobal.com/ratings/en/regulatory/ratings-criteria/-/articles/criteria/requests-for-comment/filter/all",
+          "uuid": "645eb5a441cfac75a796ee2efa3caf76ce6513a0"
         },
         {
-          "url": "https://www.eliquis.ca/sign-up",
-          "uuid": "03557f6824ac93d8ca435436f46f292a4f5db66e"
+          "url": "https://www.spglobal.com/ratings/en/regulatory/annual-reviews",
+          "uuid": "dfd3c03e6cc74cd7172f878897553f0f92dab591"
         },
         {
-          "url": "https://www.eliquis.ca/fr",
-          "uuid": "4461d0275924bdbf015b6c199f1b4461e4941390"
+          "url": "https://www.spglobal.com/ratings/en/regulatory/ratings-criteria",
+          "uuid": "efc6510cd90444b7d9cf5a2987541abbfe4b9f70"
         },
         {
-          "url": "https://www.eliquis.ca/fr/node/2",
-          "uuid": "b289e19002408a065d20707156ca17801432f219"
+          "url": "https://www.spglobal.com/ratings/en/regulatory/content/legal-disclaimer",
+          "uuid": "5c6676b52fc432031a32f9004d53140e8edec931"
         },
         {
-          "url": "https://www.eliquis.ca/fr/predin-home",
-          "uuid": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c"
+          "url": "https://www.spglobal.com/ratings/en/regulatory/significant-criteria-and-model-errors",
+          "uuid": "ed32562d8ee0492c522cb0372b415008aabfbd12"
         },
         {
-          "url": "https://www.eliquis.ca/predin-home",
-          "uuid": "0f07440494a0410f3c73ec86ea22c9e6d57e3600"
+          "url": "https://www.spglobal.com/ratings/login",
+          "uuid": "653f021920075362a2dca2046e36e45d0b883d93"
         },
         {
-          "url": "https://www.eliquis.ca/node/2",
-          "uuid": "81c0e953219d9e9260b1ea107d55afa1cc6cc751"
+          "url": "https://www.spglobal.com/mobility/en/Info/polk-privacy/statement.html",
+          "uuid": "9cf8185a18a9667c51c60a9446dfeb4eb36331c1"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/topic/automotive-industry.html",
+          "uuid": "85e704ccf4b6329b23f6ca488a418cd04a200f65"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/index.html",
+          "uuid": "5a82bef53f8aa17132feb5b9c4056928cdcadd5f"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/mobility-intelligence-for-insurance-companies.html",
+          "uuid": "c8e7a28d2e05a5fe00d74207da9642ce7751b11f"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/podcasts/automotive.html",
+          "uuid": "3763bc4aab2406758a27fe67500b05f391ae9295"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/events/index.html?i=Automotive",
+          "uuid": "2d11b3cc1302a0b33b4b721388d1eb15e323cfc3"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/forms/contactinformation.html?fid=442940",
+          "uuid": "4353dd6eef44bd853f94f28ce559c70de2297ce4"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/events/index.html?filterby=Online&i=Automotive",
+          "uuid": "92d4bba72a140e166f2ef4f16c28451c88bf876a"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/vehicle-identification.html",
+          "uuid": "40447ec0216944603e6b2e723fe979eb06d0d65e"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/about/index.html",
+          "uuid": "b470c49e8d5c292c80bbc1efeccfa09eb86d39ad"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/automotive-consulting-services.html",
+          "uuid": "86efedf2b26f26cb0e796266f19c8fbbc9c4c73e"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/mobility-intelligence-for-financials.html",
+          "uuid": "72455ed3c097e2c8379852dbfa9267cbce9f1424"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/global-auto-demand-tracker.html",
+          "uuid": "b0a42d023430d5f1c48922d6da25d82c9be1d6b9"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/industry-performance.html",
+          "uuid": "5c247e1aa637b2e4714aa24e4440b4f18e49c64b"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/digital-automotive.html",
+          "uuid": "b1d671018072d649b2288bad08bc185dd0256df1"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/vehicle-demand.html",
+          "uuid": "1744d01937fc89d62f8c3c4ca9d6c3a7bac2cf21"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/marketing-sales-dealer.html",
+          "uuid": "9ffa965df44acb477fd100718833be442585daa5"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/agencies-and-medias.html",
+          "uuid": "1cfcf88a13b8e9bf091ba69b921721e52270c31d"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/sales-optimization.html",
+          "uuid": "e77c0c9976f964f750a0ed6e9facec93188f8fb4"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/parts-demand-and-fitment.html",
+          "uuid": "cbb89a6f838bcf07e02b2d159b91007796fcbd18"
+        },
+        {
+          "url": "https://www.spglobal.com/mobility/en/products/mobility-intelligence-for-government-agencies.html",
+          "uuid": "122a7bdfaa4794c782fd26b6f6f8421fadf9e3af"
         }
       ]
     },
     {
-      "name": "'Service Overview Page'",
+      "name": "'Dashboard Template'",
       "cluster": 2,
       "pages": [
         {
-          "url": "https://www.eliquis.ca/",
-          "uuid": "614c95b732fe262a6fe43c7430f40ef24066fc96"
+          "url": "https://www.spglobal.com/en/spgi-newsletter-subscription-request",
+          "uuid": "563240550382657b5487668ae1c6d558f03efbfc"
+        },
+        {
+          "url": "https://www.spglobal.com/automotive-insights/en/forms/subscription-hub",
+          "uuid": "39484fb07846ed608af7fa6698db6fa1ca2d4c11"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/research/private-markets",
+          "uuid": "b63f82577e822e823223a93344384cd3a6f93cb9"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/research/key-themes",
+          "uuid": "7ac00f76f72e2d811b508554bf74fc16819ff6c5"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/research/sustainability-insights",
+          "uuid": "4696759abd340e26e4103d4d69bda7f5bb2fa101"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en",
+          "uuid": "c634dfdfde208090f296c1967d045f5785553077"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/research/emerging-markets",
+          "uuid": "e66acfb4628abb36a662488620464897b12a6eb7"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/research/sectors/corporates",
+          "uuid": "b360c8ce37911edd6cbbe61636298bbc6308dcc3"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/research/sectors/project-finance",
+          "uuid": "f4b28ee4a43c300a1285715416d156bc372f8eaf"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/research/sectors/us-public-finance",
+          "uuid": "0196d7dd933a95450aca964c16dcced0702b15d5"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/research/climate-finance",
+          "uuid": "0edefaa73aff748f2606a55d404a167b1e42a3a2"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/research/credit-market-research",
+          "uuid": "88e6544fe1de8ce332ec4c9f2cd5d7c0d46e96a4"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/about",
+          "uuid": "4a92145301da5478a9b657c6e604ed03c10be430"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/research/credit-conditions",
+          "uuid": "20e98e1edff4e1eb9606ea894e5d610e1996714c"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/products/solutions/ratings",
+          "uuid": "3c1238f2d9332a1327123e40a8f3a717dcba8ca4"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/products",
+          "uuid": "a161b5619d6b2b415f2c6c0da6be1c20b2d04a89"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/credit-ratings/about/how-we-rate-emerging-frontier-markets",
+          "uuid": "9c5f68e8fd0e2b4f148492a7825f6a43c7fbb002"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/products/solutions/decentralized-finance",
+          "uuid": "fed712ffab01c1113734faabe8ad8751ff6251e0"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/events/in-person/italy-credit-outlook-conference",
+          "uuid": "c740ad07583446e494bf5d36c8fe48363a04bc73"
+        },
+        {
+          "url": "https://www.spglobal.com/en/enterprise/experts/narla-viroop.html",
+          "uuid": "c37bb1f9389a031f40c9b7f25b15dcc5237eaea0"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/contact-us",
+          "uuid": "2f8723902a4c17b10977ed68938ee783a06c2990"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/register",
+          "uuid": "151fc00c5d43dea09196d1fc8d0a04dd3bb4d4ae"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/pt",
+          "uuid": "d633d61326bf5b29d61f72888732c502244c56b1"
+        },
+        {
+          "url": "https://www.spglobal.com/sustainable1/en/solutions/esg-scores-data",
+          "uuid": "6a830d0fa11f044d2d6e07feb2344aa51a470b15"
+        },
+        {
+          "url": "https://www.spglobal.com/sustainable1/en/who-we-are",
+          "uuid": "4ef5ac2f76a9980d1ee034438834e1a27d6bf3bc"
+        },
+        {
+          "url": "https://www.spglobal.com/sustainable1/en/insights/sustainability-quarterly/third-quarter-2025-special-edition",
+          "uuid": "9ee98e944375d5a7d9afdf70adfcda7ce9639bc9"
+        },
+        {
+          "url": "https://www.spglobal.com/sustainable1/en/case-studies",
+          "uuid": "8803403e30a5fafd58c79ce616a1c3b8e92e312a"
+        },
+        {
+          "url": "https://www.spglobal.com/sustainable1/en/who-we-serve/investment-banking",
+          "uuid": "a23e735edf1136f166f251a44eeb986a168ebb8c"
+        },
+        {
+          "url": "https://www.spglobal.com/sustainable1/en",
+          "uuid": "7576be5124701cf110d4bc2d5c5dd19b3d2546da"
+        },
+        {
+          "url": "https://www.spglobal.com/sustainable1/en/search",
+          "uuid": "56ca7ee90076f0d275b27fec7fa4325ea9b46c88"
+        },
+        {
+          "url": "https://www.spglobal.com/sustainable1/en/solutions",
+          "uuid": "d4222a7d1f5f2ba5ec286f5a3b25a25b6ee9741d"
+        },
+        {
+          "url": "https://www.spglobal.com/sustainable1/en/events",
+          "uuid": "518381ddae15cf59bc860407b83b629ede9f6b58"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/ru",
+          "uuid": "cd1d301d5b0b69fd43ddc7cea475087f28fb0a7e"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/ar",
+          "uuid": "be3d82638dbebbbcfae53770b732102c4f793770"
+        },
+        {
+          "url": "https://www.spglobal.com/automotive-insights/en",
+          "uuid": "90e9fa03cb03fc5b2f3925fec9a9b2c1f5540822"
+        },
+        {
+          "url": "https://www.spglobal.com/automotive-insights/en/theme/automotive-industry-forecast",
+          "uuid": "77e14d72ee2444166b2a236394282df07b5b6d6b"
+        },
+        {
+          "url": "https://www.spglobal.com/automotive-insights/en/theme/future-of-mobility",
+          "uuid": "e0afb8ceb431372e031b12a683df03f3d73981bd"
+        },
+        {
+          "url": "https://www.spglobal.com/automotive-insights/en/theme/automotive-consumer-trends",
+          "uuid": "e9f5abd93e8e1fa3ff9b1ac8ebd93a1e9e3e21fa"
+        },
+        {
+          "url": "https://www.spglobal.com/automotive-insights/en/blogs/2025/10/powertrain-system-trends-in-flux",
+          "uuid": "04ba3a4481d565cd51e8df5bdc6203d59d4fd0e0"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/special-reports/look-forward",
+          "uuid": "1d54608a2253dc5a5abc119776dd67a7ec18a7f3"
+        },
+        {
+          "url": "https://www.spglobal.com/en/contact-us/office-locations",
+          "uuid": "7855c8d3fc01e1c64df9683fa3c2191289aa791f"
+        },
+        {
+          "url": "https://www.spglobal.com/en/products/topics/technology-ai",
+          "uuid": "c65b7017ca4b204fdf1f8e6974b8a8a6fb602d0f"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/special-reports/trade-tensions",
+          "uuid": "6354205b176bed6400039ab679e5e910c0204790"
+        },
+        {
+          "url": "https://www.spglobal.com/en",
+          "uuid": "615ccdf054749f7d23e226e30f41602f0a78d5a8"
+        },
+        {
+          "url": "https://www.spglobal.com/en/products/topics/private-markets",
+          "uuid": "385b3d415a55817d6cc27a58fe16b94a69d6a593"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/special-reports/look-forward/look-forward-volume-6",
+          "uuid": "5bdd1f1f672af5f2ac5c97aabde67fa5de6741bb"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/podcasts",
+          "uuid": "1527847f6fd7077ae608a23d0146a520a32d47cb"
+        },
+        {
+          "url": "https://www.spglobal.com/en/products/topics/fixed-income",
+          "uuid": "461d1ef59a1b7268e758a5d6eff8d040fbc3d4af"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/podcasts/leaders",
+          "uuid": "5bc936a0bf158e96bf5d4d4243f12295458c54a7"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/market-insights/capital-markets",
+          "uuid": "3ffd9272249e5c75f267972c5b40a63855258616"
+        },
+        {
+          "url": "https://www.spglobal.com/en/who-we-are/culture-engagement",
+          "uuid": "14867d6bb91504a5fb85e7bd852d7a018f663766"
+        },
+        {
+          "url": "https://www.spglobal.com/en/products/data-analytics",
+          "uuid": "9818ca15c1e980b22b26abd12de9a788075be95d"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/market-insights/technology-innovation",
+          "uuid": "f400322fd312de197097c2e79610e462b1a5d79f"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/events/featured",
+          "uuid": "5e1146f31036ff9ef09e175c4e2c6bf0f8fc4e23"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/special-reports/ai-in-banking-ai-will-be-an-incremental-game-changer",
+          "uuid": "1d05a4f7d32668f14660cb2f4e2e2275465fb2b2"
+        },
+        {
+          "url": "https://www.spglobal.com/en/explore-s-p-global/careers/our-work",
+          "uuid": "fd67ce92fce415742b27c5efaf88f8edb090c190"
+        },
+        {
+          "url": "https://www.spglobal.com/en/explore-s-p-global/careers",
+          "uuid": "0f072b811fb924d9ba2c25687ed9f88daa736bef"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/events/webinar-replays",
+          "uuid": "bc21375549274b7cd120310608288acadc4a7634"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/market-insights/energy-commodities",
+          "uuid": "c1e64b0f505d34cec84ed49940e54859304e8760"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/market-insights/global-trade",
+          "uuid": "91d1b5a2d6f49d563514c75930abc328086318c1"
+        },
+        {
+          "url": "https://www.spglobal.com/en/press/press-release",
+          "uuid": "9180d59239c826e150f7490451820e713b5a6fd8"
+        },
+        {
+          "url": "https://www.spglobal.com/en/venture",
+          "uuid": "211e3050e75d913e60475e973860351aa94a3816"
+        },
+        {
+          "url": "https://www.spglobal.com/en/search",
+          "uuid": "c4abfce7e63e89508fdce9c0a956f4deb2191b48"
+        },
+        {
+          "url": "https://www.spglobal.com/en/contact-us",
+          "uuid": "9db5ff77d27771add8ee6b5e3a829fd8611b42b0"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/special-reports/look-forward/one-planet-two-realities-realizing-energy-transition-in-the-global-south",
+          "uuid": "d43e023c954bc7b065d3d7464475600952e58c07"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/special-reports/look-forward/the-return-of-energy-security",
+          "uuid": "e3899f65265e3ee63c75b8dac5d721748fee6e86"
+        },
+        {
+          "url": "https://www.spglobal.com/content/spglobal/corporate/us/en/research-insights/special-reports/look-forward/the-return-of-energy-security.html",
+          "uuid": "421cffb5125e0e0c900b011b97ad9165cfc5f8d0"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/special-reports/look-forward/a-shattered-global-order-hard-truths-for-energy-and-climate",
+          "uuid": "f85e75b04d2393bf45eb34c971f096a09a262cb9"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/experts/desai-anoop",
+          "uuid": "7433af14a69a033370253153c26b94a6f91d45ef"
+        },
+        {
+          "url": "https://www.spglobal.com/en/research-insights/experts/mengi-shubhankar",
+          "uuid": "eb459d62d2a2fff807c5d6b286d88e59a8b742ab"
+        },
+        {
+          "url": "https://www.spglobal.com/en/who-we-are",
+          "uuid": "f2834532859f2cee1e5fea3fe25bc1c073066e48"
+        },
+        {
+          "url": "https://www.spglobal.com/en/who-we-are?utm_source=allmedia&utm_medium=website&utm_campaign=seekprosper&utm_content=lp-seek-prosper&kw=%252525257bkeyword%252525257d%252525253fkw%252525253d%252525257bkeyword%252525257d%25253futm_source%25253dallmedia%25253futm_source%25253dallmedia%25253futm_source%25253dallmedia%253futm_source%253dallmedia",
+          "uuid": "00d4e0455a1809cbcd90d29e1b896bdee9d7a5a9"
         }
       ]
     }
